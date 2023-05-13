@@ -1,5 +1,5 @@
 {
-    "name": "Stream Accelerometer Data Wirelessly Over Bluetooth (w/ Delay)",
+    "name": "Stream Accelerometer Data Wirelessly Over Bluetooth with Delay",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -18,14 +18,14 @@
         "branch": "v3.0.14",
         "tag": "v3.0.14",
         "commits": "https://github.com/microsoft/pxt-microbit/commits/58a11d1f48c802b76fdf6ff7e890a1cb024f8616",
-        "target": "5.0.12",
+        "target": "5.1.26",
         "pxt": "6.0.15",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "yotta": {
         "config": {
             "microbit-dal": {
